@@ -1,3 +1,9 @@
+<p align="center">
+  <br>
+  <b>Forked and customize by ~~o3t1w~~</b>
+  <br>
+  <img src="https://osintsumo.com/assets/logo-cppgxvgf.png">
+</p>
 <!-- Logo -->
 <h1 align="center">
   <img src="./images/logo.png" height="400px" width="600px" alt="Slash">
