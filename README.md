@@ -32,7 +32,7 @@ python3 slash.py help
 
 * Example : 
 ```
-python slash.py redc86
+python3 slash.py redc86
 ```
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/redc86/slash/main/images/1.png">
